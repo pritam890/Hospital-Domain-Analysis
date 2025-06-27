@@ -1,7 +1,3 @@
-Here's a professional `README.md` file tailored for your **Emergency Room Data Project in Excel**:
-
----
-
 # 🏥 Emergency Room Data Analysis Project (Excel Dashboard)
 
 This project presents a **complete end-to-end Emergency Room (ER) Data Analysis** solution using **Microsoft Excel**, tailored for Data Analysts, Excel Enthusiasts, and Healthcare Professionals aiming to enhance **data-driven decision-making** within hospital emergency departments.
