@@ -4,7 +4,7 @@ This project presents a **complete end-to-end Emergency Room (ER) Data Analysis*
 
 ## 📌 Project Overview
 
-In this project, we developed an **interactive dashboard** that delivers critical insights into emergency room performance using **Power Query, Power Pivot, DAX**, and **data visualization techniques**. It provides hospitals with actionable metrics to help streamline operations, identify bottlenecks, and improve patient experience.
+In this project, I developed an **interactive dashboard** that delivers critical insights into emergency room performance using **Power Query, Power Pivot, DAX**, and **data visualization techniques**. It provides hospitals with actionable metrics to help streamline operations, identify bottlenecks, and improve patient experience.
 
 ## 🔍 Key Insights Delivered
 
